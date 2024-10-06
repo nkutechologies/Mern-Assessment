@@ -1,0 +1,5 @@
+Step 1: start server side project with 
+npm start
+
+Step 2: start front-end project with 
+npm run dev
